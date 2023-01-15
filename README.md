@@ -38,7 +38,7 @@
 
 - Program / Tool / IDE
   
-　<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=GIMP&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=white"/> 
+　<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=GIMP&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
  
 #### 📚 Now Studying... 📚
