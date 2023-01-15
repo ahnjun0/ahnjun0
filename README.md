@@ -22,7 +22,7 @@
 
 <div>  
   
-  [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=ahnjun0)](https://solved.ac/ahnjun0) &ensp;
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahnjun0)](https://solved.ac/ahnjun0/) &ensp;
   ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ahnjun0&theme=warm)
   
 </div>
