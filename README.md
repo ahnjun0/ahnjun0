@@ -36,9 +36,9 @@
   
 　<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> 
 
-- Program / Tool / IDE
+- Program / Tool / IDE / etc.
   
-　<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=GIMP&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+　<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=GIMP&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/>
 
  
 #### 📚 Now Studying... 📚
