@@ -43,7 +43,7 @@
  
 #### 📚 Now Studying... 📚
   
-　<img src="https://img.shields.io/badge/Amazon AWS-00979D?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/scikit‐learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>  
+　<img src="https://img.shields.io/badge/Amazon AWS-00979D?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/scikit‐learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/>
  
 #### 🥅 Future Goals 🥅
   
