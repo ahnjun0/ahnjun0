@@ -15,6 +15,7 @@
 <br/><br/>
 👉 I enjoy 🏔️ Hiking and 📡 Talk on a HAM radio. (Callsign <a href="https://www.qrz.com/db/6K5EHL">6K5EHL</a>)  
 👉 I love communicating with people!  
+👉 My blog : [ahnjun0.github.io](ahnjun0.github.io).
 
 <br/>  
 
@@ -46,7 +47,7 @@
 　 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
  
 #### 🥅 Future Goals 🥅
-  <img src="https://img.shields.io/badge/Amazon AWS-00979D?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
+　 <img src="https://img.shields.io/badge/Amazon AWS-00979D?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 　
 
 <br/>  
