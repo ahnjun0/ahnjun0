@@ -15,7 +15,7 @@
 <br/><br/>
 👉 I enjoy 🏔️ Hiking and 📡 Talk on a HAM radio. (Callsign <a href="https://www.qrz.com/db/6K5EHL">6K5EHL</a>)  
 👉 I love communicating with people!  
-👉 My blog : [ahnjun0.github.io](ahnjun0.github.io).
+👉 My blog : **[ahnjun0.github.io](ahnjun0.github.io)**.
 
 <br/>  
 
