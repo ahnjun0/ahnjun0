@@ -2,7 +2,6 @@
 ### 🙋‍♂️ About Me 🙋‍♂️
 <div align=left>
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fahnjun0%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
   <a href="mailto:ahnjun0@pusan.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/ahnjun0_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   [![Solved.ac
@@ -47,7 +46,6 @@
 　<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/> 
  
 #### 🥅 Future Goals 🥅
-　 <img src="https://img.shields.io/badge/Amazon AWS-00979D?style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 　
 
 <br/>  
