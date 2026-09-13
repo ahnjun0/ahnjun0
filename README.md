@@ -2,19 +2,21 @@
 ### 🙋‍♂️ About Me 🙋‍♂️
 <div align=left>
   
-  <a href="mailto:ahnjun0@pusan.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jyahn.it@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://ahnjun0.github.io"><img src="https://img.shields.io/badge/Portfolio-1E6B45?style=flat-square&logo=astro&logoColor=white"/></a>
   <a href="https://www.instagram.com/ahnjun0_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ahnjun0)](https://solved.ac/ahnjun0)
 
 </div>
 
-☘️ I'm Currently learning Computer Science & Engineering.  
-☘️ Recently, I'm trying to handle C++ freely, and I'm studying Machine Learning to challenge various Kaggle competitions.
+☘️ I'm studying Computer Science & Engineering at Pusan National University.  
+☘️ I define problems, solve them with data, and ship them as services — LLM fine-tuning, data pipelines, game AI, and browser extensions.  
+☘️ Currently at Kakao Tech Campus (4th) working on infra & backend for an AI video-interview service.
 <br/><br/>
 👉 I enjoy 🏔️ Hiking and 📡 Talk on a HAM radio. (Callsign <a href="https://www.qrz.com/db/6K5EHL">6K5EHL</a>)  
 👉 I love communicating with people!  
-👉 My blog : **[ahnjun0.github.io](ahnjun0.github.io)**.
+👉 My portfolio & notes : **[ahnjun0.github.io](https://ahnjun0.github.io)**.
 
 <br/>  
 
@@ -23,28 +25,26 @@
 ### 💪 Skills 💪
 
 #### ✨ Tech Stacks ✨
-- Algorithm / Language
+- Language
   
-　<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> (<img src="https://img.shields.io/badge/scikit‐learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>) 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/> 
+　<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
-- Front-end / Back-end
+- AI / ML
   
-　<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> (+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=javascript&logoColor=white"/> ) <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>  
+　<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/vLLM-000000?style=flat-square&logo=vllm&logoColor=white"/> <img src="https://img.shields.io/badge/LoRA%20%2F%20PEFT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
-- Git
+- Backend / Infra
   
-　<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=sourcetree&logoColor=white"/> 
+　<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/LiveKit-000000?style=flat-square&logo=livekit&logoColor=white"/>
 
-- Program / Tool / IDE / etc.
+- Frontend
   
-　<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=GIMP&logoColor=white"/> <img src="https://img.shields.io/badge/Notepad++-90E59A?style=flat-square&logo=Notepad%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=Markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white"/>
+　<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white"/>
 
- 
-#### 📚 Now Studying... 📚
+- Radio
   
-　<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"/> 
- 
+　<img src="https://img.shields.io/badge/SDR-333333?style=flat-square&logo=satellite&logoColor=white"/>
+
 #### 🥅 Future Goals 🥅
 　
 
@@ -55,8 +55,7 @@
 
 <div>  
   
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahnjun0)](https://solved.ac/ahnjun0/) &ensp;
-  ![mazandi profile](http://mazandi.herokuapp.com/api?handle=ahnjun0&theme=warm)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ahnjun0)](https://solved.ac/ahnjun0/)
   
 </div>
   
@@ -71,6 +70,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
