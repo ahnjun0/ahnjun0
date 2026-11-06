@@ -12,7 +12,7 @@
 
 ☘️ I'm studying Computer Science & Engineering at Pusan National University.  
 ☘️ I define problems, solve them with data, and ship them as services — LLM fine-tuning, data pipelines, game AI, and browser extensions.  
-☘️ Currently at Kakao Tech Campus (4th) working on infra & backend for an AI video-interview service.
+☘️ Currently an intern at NAVER Cloud, designing and synthesizing training data for HyperCLOVA X. (Oct 2026 – Jan 2027)
 <br/><br/>
 👉 I enjoy 🏔️ Hiking and 📡 Talk on a HAM radio. (Callsign <a href="https://www.qrz.com/db/6K5EHL">6K5EHL</a>)  
 👉 I love communicating with people!  
