@@ -12,7 +12,7 @@
 
 ☘️ I'm studying Computer Science & Engineering at Pusan National University.  
 ☘️ I define problems, solve them with data, and ship them as services — LLM fine-tuning, data pipelines, game AI, and browser extensions.  
-☘️ Currently an intern at NAVER Cloud, designing and synthesizing training data for HyperCLOVA X. (Oct 2026 – Jan 2027)
+☘️ Currently an intern at NAVER Cloud, designing and synthesizing training data for HyperCLOVA X. (Oct 2026 – now)
 <br/><br/>
 👉 I enjoy 🏔️ Hiking and 📡 Talk on a HAM radio. (Callsign <a href="https://www.qrz.com/db/6K5EHL">6K5EHL</a>)  
 👉 I love communicating with people!  
@@ -46,7 +46,9 @@
 　<img src="https://img.shields.io/badge/SDR-333333?style=flat-square&logo=satellite&logoColor=white"/>
 
 #### 🥅 Future Goals 🥅
-　
+- Become an AI engineer who covers the whole LLM loop: data → training → evaluation → serving.
+- Go deeper into training-data quality and evaluation — knowing *why* a model got better, not just that it did.
+- Build and ship LLM applications (RAG, agents) that people actually use.
 
 <br/>  
 
